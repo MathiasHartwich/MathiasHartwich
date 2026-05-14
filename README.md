@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🎓 3rd-year student — Bachelor's in Information Systems
+- 🎓 3rd-year student — Bachelor's in Information Systems at [Universidad ORT Uruguay](https://www.ort.edu.uy)
 - ⚙️ Focused on backend development, data, and process automation
 - 🌍 Going on an exchange program — back and job-hunting from March 2027
 - 🔧 I adapt to any stack, but feel most at home with C#, TypeScript, and Node.js
