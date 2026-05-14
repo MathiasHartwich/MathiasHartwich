@@ -28,7 +28,7 @@
 
 | Project | Description | Repo |
 |---|---|---|
-| 🍔 **Smash Burger Web App** | Order management system + landing page for a local burger restaurant | [View](https://github.com/MathiasHartwich/BlackDog-Burgers) |
+| 🍔 **Smash Burger Web App** | Order management system + landing page for a local burger restaurant | [View](https://blackdog-burgers.vercel.app/) |
 | 🏥 **Clinical Records System** | Digitalization platform for managing medical records for a healthcare provider | Private |
 | 📊 **Management Reports Automation** | Automated reporting pipeline that replaces manual processes for an accounting firm | Private |
 
